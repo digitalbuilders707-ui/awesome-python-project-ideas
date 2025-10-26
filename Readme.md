@@ -111,3 +111,17 @@ Develop a graphical game that challenges the user's aiming skills, potentially u
 ### #21 - Advanced Python Scripting
 
 This category encompasses more intricate scripting tasks, such as system automation, network analysis tools, or sophisticated data processing pipelines.
+
+### #22- Ebay Price Tracker
+
+Create a tool that monitors eBay listings for price changes. This will combine web scraping with data visualization
+
+### #23- Personal Finance Tracker
+
+Develop an application to track expenses and income. This project will involve database management and user interface design.
+
+### #24- Web Scraper
+ Build a tool that extracts data from websites. This project will teach you about web requests and data parsing.
+
+
+
